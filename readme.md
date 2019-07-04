@@ -1,4 +1,4 @@
-=== Bookme Pro - Online Appointment Booking and Scheduling Plugin ===
+## Bookme Pro - Online Appointment Booking and Scheduling Plugin
 
 Contributors: Bylancer
 
@@ -18,7 +18,9 @@ License: GPLv3
 
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Bookme Pro is a responsive, multipurpose and fully customizable WordPress appointment booking and scheduling software for accepting online appointments bookings & scheduling.
+
+
+**Bookme Pro** is a responsive, multipurpose and fully customizable WordPress appointment booking and scheduling software for accepting online appointments bookings & scheduling.
 
 == Description ==
 
@@ -78,56 +80,45 @@ Bookme Pro full version provide you many more advanced features and customizatio
 * [Buy Full Version](https://codecanyon.net/item/bookme-pro-wordpress-appointment-booking-and-scheduling-software/23939246?ref=bylancer)
 * [Support Team](https://m.me/bylancer.in)
 
-== Frequently Asked Questions ==
+## Frequently Asked Questions ##
 
-= How can I test Bookme Pro free version before installation? =
+**How can I test Bookme Pro free version before installation?**
 
 You can test Bookme pro frontend and admin panel on [our demo](https://bookme-pro-lite.bylancer.com).
 
-= Where can I find the documentation? =
+**Where can I find the documentation?**
 
 You can check the documentation [here](https://bookme.bylancer.com/documentation/).
 
-= Where can I test the Bookme Pro full version? =
+**Where can I test the Bookme Pro full version?**
 
 To check the all features of Bookme Pro full version, check the demo [here](https://bookme.bylancer.com).
 
-= How to upgrade to Bookme Pro full version? =
+**How to upgrade to Bookme Pro full version?**
 
 Purchase and download the full version from [here](https://codecanyon.net/item/bookme-pro-wordpress-appointment-booking-and-scheduling-software/23939246?ref=bylancer) and install it as a new plugin.
 
-= I installed this plugin. How do I get it running? =
+**I installed this plugin. How do I get it running?**
 
 First create at least one staff and service, and go to the Posts/Pages and click on the button "Add Bookme Pro Booking Form". Or check [this](https://bookme.bylancer.com/publish-bookme-pro-form/) article for more details.
 
-== Screenshots ==
 
-1. Booking Form - Select Service
-2. Booking Form - Select Time
-3. Booking Form - Enter Customer Details
-4. All Bookings Calendar View
-5. All Bookings Table
-6. Staff Member Details
-7. Staff Member Services
-8. Staff Member Schedule
-9. Staff Member Days Off
-10. Service
-11. Customize Everything
-12. Email & SMS Notifications
+## Installation
 
-== Installation ==
+**MINIMUM REQUIREMENTS**
 
-= MINIMUM REQUIREMENTS =
   * WordPress 4.5 or greater
   * PHP version 5.3.7 or greater
   * MySQL version 5.0 or greater
 
-= AUTOMATIC INSTALLATION =
+**AUTOMATIC INSTALLATION**
+
 Automatic installation is the easiest option as WordPress handles the file transfers itself and you don’t even need to leave your web browser. To do an automatic install of Book Pro, log in to your WordPress admin panel, navigate to the Plugins menu and click Add New.
 
 In the search field type “**Bookme Pro**” and click Search Plugins. Once you have found our plugin, you can install it simply by clicking Install Now. WordPress will automatically complete the installation.
 
-= MANUAL INSTALLATION =
+**MANUAL INSTALLATION**
+
 The manual installation method involves downloading our plugin and uploading it to your web server via your favorite FTP application.
 
 1. Download the plugin file to your computer and unzip it.
@@ -135,13 +126,3 @@ The manual installation method involves downloading our plugin and uploading it 
 3. Activate the plugin in the **WordPress sidebar menu –> Plugins**.
 
 Check [this](https://bookme.bylancer.com/how-to-install-bookme-pro/) article for more details.
-
-== Changelog ==
-
-= Version 1.0 =
-
-Initial Release
-
-== Upgrade Notice ==
-
-Always update to the recent version of Bookme Pro.
